@@ -1,5 +1,3 @@
-### Live Coding - Index
-
 - Live Coding Server
   - [Live Platform](https://github.com/sourceplusplus/live-platform)
 - Live Coding Clients
