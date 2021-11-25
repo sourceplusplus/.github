@@ -8,7 +8,7 @@
   - [JVM](https://github.com/sourceplusplus/probe-jvm)
   - [Python](https://github.com/sourceplusplus/probe-python)
 - Clients
-  - [JetBrains IDE Plugin](https://github.com/sourceplusplus/interface-jetbrains)
+  - [JetBrains Plugin](https://github.com/sourceplusplus/interface-jetbrains)
   - [CLI](https://github.com/sourceplusplus/interface-cli)
   - [Portal](https://github.com/sourceplusplus/interface-portal)
 - Processors
