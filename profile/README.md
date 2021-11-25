@@ -1,6 +1,9 @@
 ### Index
 - Live Coding
   - [Live Platform](https://github.com/sourceplusplus/live-platform)
+- Tutorials
+  - [JVM](https://github.com/sourceplusplus/tutorial-jvm)
+  - [Python](https://github.com/sourceplusplus/tutorial-python)
 - Clients
   - [JetBrains IDE Plugin](https://github.com/sourceplusplus/interface-jetbrains)
   - [CLI](https://github.com/sourceplusplus/interface-cli)
@@ -11,9 +14,6 @@
 - Processors
   - [Live Instrument](https://github.com/sourceplusplus/processor-instrument)
   - [Log Summary](https://github.com/sourceplusplus/processor-log-summary)
-- Tutorials
-  - [JVM](https://github.com/sourceplusplus/tutorial-jvm)
-  - [Python](https://github.com/sourceplusplus/tutorial-python)
 
 ### Roadmap
 - [Bug Tracker](https://github.com/orgs/sourceplusplus/projects/1)
