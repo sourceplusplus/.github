@@ -14,6 +14,8 @@
 - Processors
   - [Live Instrument](https://github.com/sourceplusplus/processor-instrument)
   - [Log Summary](https://github.com/sourceplusplus/processor-log-summary)
+- Deployments
+  - [Apache SkyWalking](https://github.com/sourceplusplus/deploy-skywalking)
 
 ### Roadmap
 - [Bug Tracker](https://github.com/orgs/sourceplusplus/projects/1)
