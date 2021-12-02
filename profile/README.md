@@ -1,6 +1,7 @@
 ### Index
 - Live Coding
   - [Live Platform](https://github.com/sourceplusplus/live-platform)
+  - [Protocol](https://github.com/sourceplusplus/protocol)
 - Tutorials
   - [JVM](https://github.com/sourceplusplus/tutorial-jvm)
   - [Python](https://github.com/sourceplusplus/tutorial-python)
