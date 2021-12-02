@@ -16,5 +16,6 @@
   - [Log Summary](https://github.com/sourceplusplus/processor-log-summary)
 - Deployments
   - [Apache SkyWalking](https://github.com/sourceplusplus/deploy-skywalking)
-- [Bug Tracker](https://github.com/orgs/sourceplusplus/projects/1)
-- [Release Tracker](https://github.com/orgs/sourceplusplus/projects/2)
+- Organization
+  - [Bug Tracker](https://github.com/orgs/sourceplusplus/projects/1)
+  - [Release Tracker](https://github.com/orgs/sourceplusplus/projects/2)
