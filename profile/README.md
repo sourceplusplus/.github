@@ -16,7 +16,6 @@
 - Processors ([dependencies](https://github.com/sourceplusplus/processor-dependencies))
   - [Live Instrument](https://github.com/sourceplusplus/processor-instrument)
   - [Live View](https://github.com/sourceplusplus/processor-live-view)
-  - [Log Summary](https://github.com/sourceplusplus/processor-log-summary)
 - Deployments
   - [Apache SkyWalking](https://github.com/sourceplusplus/deploy-skywalking)
 - Organization
