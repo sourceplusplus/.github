@@ -13,9 +13,6 @@
   - [JetBrains Plugin](https://github.com/sourceplusplus/interface-jetbrains)
   - [CLI](https://github.com/sourceplusplus/interface-cli)
   - [Portal](https://github.com/sourceplusplus/interface-portal)
-- Processors ([dependencies](https://github.com/sourceplusplus/processor-dependencies))
-  - [Live Instrument](https://github.com/sourceplusplus/processor-instrument)
-  - [Live View](https://github.com/sourceplusplus/processor-live-view)
 - Deployments
   - [Apache SkyWalking](https://github.com/sourceplusplus/deploy-skywalking)
 - Organization
