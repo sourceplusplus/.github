@@ -13,8 +13,6 @@
   - [JetBrains Plugin](https://github.com/sourceplusplus/interface-jetbrains)
   - [CLI](https://github.com/sourceplusplus/interface-cli)
   - [Portal](https://github.com/sourceplusplus/interface-portal)
-- Deployments
-  - [Apache SkyWalking](https://github.com/sourceplusplus/deploy-skywalking)
 - Organization
   - [Bug Tracker](https://github.com/orgs/sourceplusplus/projects/1)
   - [Release Tracker](https://github.com/orgs/sourceplusplus/projects/2)
