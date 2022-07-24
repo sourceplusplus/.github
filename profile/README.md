@@ -9,6 +9,7 @@
 - Probes
   - [JVM](https://github.com/sourceplusplus/probe-jvm)
   - [Python](https://github.com/sourceplusplus/probe-python)
+  - [NodeJS](https://github.com/sourceplusplus/probe-nodejs) (work-in-progress)
 - Interfaces
   - [JetBrains Plugin](https://github.com/sourceplusplus/interface-jetbrains)
   - [CLI](https://github.com/sourceplusplus/interface-cli)
