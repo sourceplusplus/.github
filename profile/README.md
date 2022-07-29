@@ -14,5 +14,4 @@
   - [JetBrains Plugin](https://github.com/sourceplusplus/interface-jetbrains)
   - [CLI](https://github.com/sourceplusplus/interface-cli)
 - Organization
-  - [Bug Tracker](https://github.com/orgs/sourceplusplus/projects/1)
-  - [Release Tracker](https://github.com/orgs/sourceplusplus/projects/2)
+  - [Roadmap](https://github.com/orgs/sourceplusplus/projects/4)
