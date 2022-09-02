@@ -12,6 +12,7 @@
   - [NodeJS](https://github.com/sourceplusplus/probe-nodejs) (work-in-progress)
 - Interfaces
   - [JetBrains Plugin](https://github.com/sourceplusplus/interface-jetbrains)
+  - [VS Code Extension](https://github.com/sourceplusplus/interface-vscode) (work-in-progress)
   - [CLI](https://github.com/sourceplusplus/interface-cli)
 - Organization
   - [Roadmap](https://github.com/orgs/sourceplusplus/projects/4)
