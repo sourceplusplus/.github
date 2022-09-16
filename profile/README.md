@@ -6,6 +6,7 @@
 - Tutorials
   - [JVM](https://github.com/sourceplusplus/tutorial-jvm)
   - [Python](https://github.com/sourceplusplus/tutorial-python)
+  - [NodeJS](https://github.com/sourceplusplus/tutorial-nodejs) (work-in-progress)
 - Probes
   - [JVM](https://github.com/sourceplusplus/probe-jvm)
   - [Python](https://github.com/sourceplusplus/probe-python)
