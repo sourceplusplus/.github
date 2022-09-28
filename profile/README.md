@@ -3,6 +3,7 @@
   - [Live Platform](https://github.com/sourceplusplus/live-platform)
   - [Protocol](https://github.com/sourceplusplus/protocol)
   - [Documentation](https://github.com/sourceplusplus/documentation)
+  - [Roadmap](https://github.com/orgs/sourceplusplus/projects/4)
 - Tutorials
   - [JVM](https://github.com/sourceplusplus/tutorial-jvm)
   - [Python](https://github.com/sourceplusplus/tutorial-python)
@@ -15,5 +16,3 @@
   - [JetBrains Plugin](https://github.com/sourceplusplus/interface-jetbrains)
   - [VS Code Extension](https://github.com/sourceplusplus/interface-vscode) (work-in-progress)
   - [CLI](https://github.com/sourceplusplus/interface-cli)
-- Organization
-  - [Roadmap](https://github.com/orgs/sourceplusplus/projects/4)
