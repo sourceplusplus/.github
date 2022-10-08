@@ -4,10 +4,11 @@
   - [Protocol](https://github.com/sourceplusplus/protocol)
   - [Documentation](https://github.com/sourceplusplus/documentation)
   - [Roadmap](https://github.com/orgs/sourceplusplus/projects/4)
-- Tutorials
-  - [JVM](https://github.com/sourceplusplus/tutorial-jvm)
-  - [Python](https://github.com/sourceplusplus/tutorial-python)
-  - [NodeJS](https://github.com/sourceplusplus/tutorial-nodejs) (work-in-progress)
+- Demos
+  - [Java](https://github.com/sourceplusplus/demo-java)
+  - [Kotlin](https://github.com/sourceplusplus/demo-kotlin)
+  - [Python](https://github.com/sourceplusplus/demo-python)
+  - [NodeJS](https://github.com/sourceplusplus/demo-nodejs)
 - Probes
   - [JVM](https://github.com/sourceplusplus/probe-jvm)
   - [Python](https://github.com/sourceplusplus/probe-python)
