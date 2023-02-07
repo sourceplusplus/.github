@@ -1,6 +1,3 @@
-Increase code comprehension with developer-native observability technology, safely debug production applications with
-negligible to minimal overhead, and gain continuous insight into your application in its natural environment.
-
 <table>
     <thead>
     <tr>
